@@ -3,6 +3,8 @@
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 This responsive website is developed with using React , tailwind , material UI , styled-components.
+it's full responsive with a sweet hamburger menu navbar.
+I am still working on this project for further development.
 
 ![1](https://github.com/razieshahbazi/khodroshop/assets/109855825/13ffa61e-a751-4ecf-a595-9496f631eb7b)
 ![2](https://github.com/razieshahbazi/khodroshop/assets/109855825/7e6fee54-31d7-4853-926e-ca0f4f8dc262)
