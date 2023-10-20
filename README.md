@@ -11,7 +11,7 @@ Currently, two official plugins are available:
 ![3](https://github.com/razieshahbazi/khodroshop/assets/109855825/7835795c-03d4-4399-91c7-f55557bd2921)
 ![why](https://github.com/razieshahbazi/khodroshop/assets/109855825/55680de3-4f52-4fb0-ba3a-b1b449549be8)
 ![img](https://github.com/razieshahbazi/khodroshop/assets/109855825/0f35286d-c2e3-4af0-bdde-0510198ea50a)
-![Uploading 6.PNG…]()
+![6](https://github.com/razieshahbazi/khodroshop/assets/109855825/8a6560a7-5ce5-4ed1-b516-ee4c0ce5d1ac)
 ![7](https://github.com/razieshahbazi/khodroshop/assets/109855825/eb951ad8-5a1f-4ba5-98f3-01c438830018)
 
 
