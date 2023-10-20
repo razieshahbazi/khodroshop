@@ -1,0 +1,34 @@
+body{
+    background-color: white;
+    margin-top: 0%;
+ 
+}
+.title{
+    margin-top: 0px;
+    color:#1a3760;
+    text-align: center;
+    padding: 7%;
+}
+
+.products{
+    /* display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center; */
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+
+}
+
+
+@media (max-width: 400px) {
+    
+    .products{
+        display: grid;
+        justify-content: center;
+        grid-template-columns: auto;
+      
+    }
+  }
+
+

@@ -1,0 +1,35 @@
+#app {
+    height: 100%;
+  }
+  html,
+  body {
+    position: relative;
+    height: 100%;
+    
+  }
+.contain{
+  background: #ecf5f5;
+}
+.swiper{
+    color: #000;
+    padding: 0;
+    display: flex;
+    
+  }
+  
+  .mySwiper {
+    width: 80%;
+    height: 45%;
+  }
+  
+  .swiper-slide {
+    background: #fff;
+    border-radius: 15px;
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    direction: rtl;
+  }
+  
+  

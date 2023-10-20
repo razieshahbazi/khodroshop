@@ -1,0 +1,64 @@
+
+  .card{
+    width: 330px;
+    height: 342px;
+    padding: 10px;
+    text-align: right !important;
+    direction: rtl !important;
+    align-items: center;
+    
+  }
+  .cardImage {
+    width: 278px;
+    height: 155px;   
+    border-radius: 5px;
+  }
+
+  .container h4{
+    margin-right: 10px;
+    margin-top: 15px;
+  }
+
+  .cardrate{
+    margin-right: 10px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+  }
+  .container h3 {
+    color: #06003f;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 10px;
+    font-size: 1.1rem;
+  }
+  
+  .cardfooter{
+    border-top: 1px solid #EAEAEA;
+  }
+
+  .cardfooter{
+    display: flex;
+    justify-content: space-around;
+    color: #616161;
+    padding: 10px;
+  }
+
+
+  @media (max-width: 400px) {
+    .card{
+      width: 280px;
+      height: 370px;
+    }
+    .cardfooter{
+      margin-top: 40px;
+    }
+    h4{
+      margin-top: 20px !important;
+    }
+   
+    .cardrate{
+      margin-top: 20px;
+    }
+  
+  }
+
