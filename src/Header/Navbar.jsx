@@ -116,7 +116,7 @@ export const Navbar = () => {
         <ul className="topnav" id='myTopnav'>
           <li className="btn-submit border border-solid  border-white-300 rounded-full"><a href="#home" >افزودن آگهی +  </a></li>
           <li><a href="#news">تماس با ما</a></li>
-          <li><a href="#news">درباره ما</a></li>
+          <li><a href="/about">درباره ما</a></li>
           <li className="dropdown">
             <a href="javascript:void(0)" className="dropbtn">صفحات<img src={arrow} alt="arrow" className="ml-3" /></a>
             <div className="dropdown-content rounded-2xl ">

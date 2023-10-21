@@ -1,14 +1,12 @@
 import Tab from './Tab';
-import {Navbar} from './Navbar'
-import styled from 'styled-components';
-const AwesomeHeadline = styled.h1`
-    font-family: 'Meridiana';
-`;
+import {Navbar} from './Navbar';
+
+
 
 
 export const Header = () => {
   return (
-    <AwesomeHeadline>
+    
      <div className="text-center">
         <Navbar/>
         <div className="flex flex-col items-center mt-20 ">
@@ -25,7 +23,7 @@ export const Header = () => {
        
 
     </div>
-    </AwesomeHeadline>
+    
   )
 }
 

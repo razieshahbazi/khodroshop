@@ -20,6 +20,7 @@
     "react-burger-menu": "^3.0.9",
     "react-dom": "^18.2.0",
     "react-modal-video": "^2.0.1",
+    "react-router-dom": "^6.17.0",
     "react-swipeable-views": "^0.14.0",
     "styled-components": "^6.0.8",
     "swiper": "^10.3.1",
