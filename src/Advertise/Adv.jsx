@@ -13,7 +13,7 @@ console.log|(products)
   return (
     <div>
         <div className={styled.title}>
-            <h1 className='text-3xl font-bold'>آگهی های ویژه</h1>
+            <h1 className='text-4xl font-bold'>آگهی های ویژه</h1>
         </div>
         <div className={styled.products}>
 

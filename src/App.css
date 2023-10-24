@@ -1,3 +1,20 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+@font-face {
+    font-family: 'YekanBakh-Bold';
+      src: url('./fonts/YekanBakh/YekanBakh-Bold/YekanBakh-Bold.eot'); /* IE9 Compat Modes */
+      src: url('./fonts/YekanBakh/YekanBakh-Bold/YekanBakh-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+          url('./fonts/YekanBakh/YekanBakh-Bold/@font-face/41e49eab42867016423011dccc96c22a.woff2') format('woff2'), /* Super Modern Browsers */
+          url('./fonts/YekanBakh/YekanBakh-Bold/YekanBakh-Bold.woff') format('woff'), /* Pretty Modern Browsers */
+          url('./fonts/YekanBakh/YekanBakh-Bold/YekanBakh-Bold.ttf')  format('truetype'), /* Safari, Android, iOS */
+          url('./fonts/YekanBakh/YekanBakh-Bold/YekanBakh-Bold.svg') format('svg'); /* Legacy iOS */
+      font-weight: 700;
+      font-style: normal;
+  }
+
+  body{
+    font-family:'YekanBakh-Bold';
+  }
